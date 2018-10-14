@@ -1,3 +1,14 @@
+.first-buttom{
+    margin-top:83px;
+    text-align: center;width: 235px;height: 48px;
+    background-color: #50c3af;
+    border-radius:20px;
+    line-height: 50px;
+    color: #f5f5f5;
+}
+.first-buttom:hover{
+    opacity:0.6;
+}
 .first_page{
     background-image: url("bg.png");
     width: 100%; 
@@ -63,6 +74,9 @@ a{
     text-align: center;
     margin-top: 32px;
 }
+.read-more:hover{
+opacity: 0.6;
+}
 .read-more-gray{
     color: #f5f5f5;
     width: 98px;
@@ -71,6 +85,9 @@ a{
     border-radius: 20px;
     line-height: 30px;
     text-align: center;
+}
+.read-more-gray:hover{
+    opacity: 0.6;
 }
 .fourth{
     height: 328px;
@@ -89,6 +106,9 @@ a{
 .eighth{
     height: 221px;
 background-color: #50c3af;
+}
+.nineth{
+    height:83px;
 }
 /* ///////////////////////////////////////////////////////// */
 .first-lorem{
@@ -140,10 +160,27 @@ margin-top:28px;
 font-size: 14px;
 font-weight: 400;
 line-height: 24px;
-padding-top: 31px;
+padding-top: 15px;
 padding-bottom: 29px;
 }
+.home-h1{
+    color: white;
+    display: flex;
+    justify-content: center;padding-top: 43px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 700;line-height: 24px;
+    text-transform: uppercase;
+}
 .first-h1{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+font-size: 13px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+}
+.second-h1{
     font-family: 'PT Sans', sans-serif;
    margin-top:32px;
    text-transform: uppercase;
@@ -210,8 +247,8 @@ font-size: 18px;
 font-weight: 700;
 line-height: 24px;
 text-transform: uppercase;
-margin-top: 65px;
-padding-bottom: 23px;
+margin-top: 60px;
+padding-bottom: 18px;
 }
 .eighth-h1{
     color: #ffffff;
@@ -220,6 +257,17 @@ font-size: 15px;
 font-weight: 700;
 line-height: 24px;
 text-transform: uppercase;
+padding-top: 53px;
+padding-bottom: 20px;
+}
+.nineth-h1{
+    
+    margin-top: 30px;
+    color: #aaacaf;
+    font-family: "PT Sans";
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
 }
 .first-img{
    margin-left:55px;
@@ -247,5 +295,18 @@ padding-right:14px;
     margin-top:61px;
     margin-bottom: 62px;
 }
-
-
+.eighth-img{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.star{
+   width: 17px;
+   height: 16px;
+   padding-right:10px;
+   margin-top:3px;
+}
+.nine-img{
+    margin-top:30px;
+    padding-left:20px;
+}
