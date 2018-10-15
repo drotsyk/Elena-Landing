@@ -359,12 +359,13 @@ opacity: 0.6;
     display:flex;
     justify-content:space-between;
 }
-.line1{
-    height:2px;margin-top:10px;width: 101px;padding-right:10px;
-}
-.line2{
-    padding-left:10px;
+.top-hr{
+    background-color: #ffffff;
     width: 101px;
-    height:2px;
+    height: 1px;
+    opacity: 0.24;
+    margin:0px;
     margin-top:10px;
+    margin-left:20px;
+    margin-right:20px;
 }
