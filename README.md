@@ -6,7 +6,7 @@ Elena landing.
   <li>Css</li>
 </ul>
 <hr>
-<h1>Result></h1>
+<h1>Result</h1>
 <a href="https://drotsyk.github.io/les5/index.html">Link Elena</a>
 
 
