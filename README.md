@@ -6,4 +6,4 @@
   <li>Css</li>
 </ul>
 <hr>
-
+<img src="https://raw.githubusercontent.com/IgnatSemchuk/ma_email/master/images/email_markup.jpg">
